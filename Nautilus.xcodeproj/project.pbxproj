@@ -407,6 +407,7 @@
 				B55477701A6AFAA600C9B07D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B55477711A6AFAA600C9B07D /* Build configuration list for PBXNativeTarget "NautilusTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				B55477731A6AFAA600C9B07D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
